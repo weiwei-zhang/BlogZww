@@ -12,7 +12,7 @@ tags:
 Go语言在目前的编程语言中的欢迎度与日俱增。目前项目中用到了GRPC框架，为了更好的理解框架与拓展编程语言领域，参考Golang教程整理此文档。
 
 <!--more-->
-<!-- ![Image text](/images/chat.jpg) -->
+<!-- ![Image text](/images/chat.jpg)    -->
 
 ### 基础内容
 #### 基本数据类型
