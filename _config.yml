@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 风继续吹``
+title: 箜``
 subtitle: '风继续吹，雨不停下'
 description: '看庭前花开花落，望天外云卷云舒``'
 keywords: 前端,编程,JavaScript,NodeJS,小程序
-author: 风继续吹
+author: 箜
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.aesen.cc:666
+url: https://blog.zww.fit:666
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
